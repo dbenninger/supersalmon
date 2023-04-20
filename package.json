@@ -1,5 +1,5 @@
 {
-  "name": "supersalmon",
+  "name": "@dbenninger/supersalmon",
   "version": "2.0.0",
   "description": "Stream processor for xlsx files",
   "main": "index.js",
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lambrojos/supersalmon"
+    "url": "https://github.com/dbenninger/supersalmon.git"
   },
   "dependencies": {
     "object-chunker": "^1.0.1",
